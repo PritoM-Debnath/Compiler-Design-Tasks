@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+// drive code
 int main(){
     freopen("input.txt","r",stdin);
     freopen("output.txt","w",stdout);
